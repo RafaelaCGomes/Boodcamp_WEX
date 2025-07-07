@@ -1,0 +1,14 @@
+/home/rafaelacgomes/Bootcamp_WEX/bin/Debug/net8.0/Bootcamp_WEX
+/home/rafaelacgomes/Bootcamp_WEX/bin/Debug/net8.0/Bootcamp_WEX.deps.json
+/home/rafaelacgomes/Bootcamp_WEX/bin/Debug/net8.0/Bootcamp_WEX.runtimeconfig.json
+/home/rafaelacgomes/Bootcamp_WEX/bin/Debug/net8.0/Bootcamp_WEX.dll
+/home/rafaelacgomes/Bootcamp_WEX/bin/Debug/net8.0/Bootcamp_WEX.pdb
+/home/rafaelacgomes/Bootcamp_WEX/obj/Debug/net8.0/Bootcamp_WEX.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafaelacgomes/Bootcamp_WEX/obj/Debug/net8.0/Bootcamp_WEX.AssemblyInfoInputs.cache
+/home/rafaelacgomes/Bootcamp_WEX/obj/Debug/net8.0/Bootcamp_WEX.AssemblyInfo.cs
+/home/rafaelacgomes/Bootcamp_WEX/obj/Debug/net8.0/Bootcamp_WEX.csproj.CoreCompileInputs.cache
+/home/rafaelacgomes/Bootcamp_WEX/obj/Debug/net8.0/Bootcamp_WEX.dll
+/home/rafaelacgomes/Bootcamp_WEX/obj/Debug/net8.0/refint/Bootcamp_WEX.dll
+/home/rafaelacgomes/Bootcamp_WEX/obj/Debug/net8.0/Bootcamp_WEX.pdb
+/home/rafaelacgomes/Bootcamp_WEX/obj/Debug/net8.0/Bootcamp_WEX.genruntimeconfig.cache
+/home/rafaelacgomes/Bootcamp_WEX/obj/Debug/net8.0/ref/Bootcamp_WEX.dll
