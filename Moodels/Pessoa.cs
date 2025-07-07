@@ -8,7 +8,7 @@ namespace Bootcamp_WEX.Moodels
 {
     public class Pessoa
     {
-//característica da classe, pessoa.
+//característica, propriedade da classe, pessoa.
         public string Nome { get; set; }
         public int Idade { get; set; }
 
