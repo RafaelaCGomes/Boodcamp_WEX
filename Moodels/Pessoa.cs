@@ -6,13 +6,14 @@ using System.Threading.Tasks;
 
 namespace Bootcamp_WEX.Moodels
 {
-    public class Pessoa
+    // nome de classe, propriedade e método = PascalCase
+    public class Pessoa  
     {
-//característica, propriedade da classe, pessoa.
+        //característica, propriedade da classe, pessoa.
         public string Nome { get; set; }
         public int Idade { get; set; }
 
-//método, ação, função.
+        //método, ação, função.
         public void Apresentar()
         {
             Console.WriteLine($"Olá meu nome é {Nome}, e tenho {Idade} anos.");
